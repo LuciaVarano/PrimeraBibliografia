@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Raleway";
+    src: url("fonts/Story_Script/StoryScript-Regular.ttf") format("truetype");
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: "Karla";
+    src: url("fonts/Story_Script/Karla-Italic-VariableFont_wght.ttf") format("truetype");
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: "Fredoka";
+    src: url("fonts/Story_Script/Fredoka-VariableFont_wdth\,wght.ttf") format("truetype");
+    font-weight: 200;
+}

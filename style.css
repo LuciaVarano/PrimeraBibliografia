@@ -1,0 +1,41 @@
+body{
+    font-family: Fredoka;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin: auto;
+    overflow-x: hidden;
+    
+    }
+
+
+header {
+  width: 100vw;
+  height: 100vh; 
+  background-image: url("fondo.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  margin: 0;
+  padding: 0;
+  
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #948499; /* Color del texto */
+  margin: 0;
+  padding: 20px;
+  font-size: 150px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  /*background-color: #cecdcd8d;
+  border: 1px solid  none;
+  border-radius: 25px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);*/
+}
+
